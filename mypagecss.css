@@ -1,0 +1,29 @@
+#background{
+	background-image:url('native_american_girl.jpg') ;
+	}
+
+.para{
+	color:00008b;
+	text-align:center;
+	font-family:Brush Script MT;
+	font-size:80px;
+	}
+
+.centertext{
+	color:#FFFFFF;
+	text-align:center;
+	}
+
+.divbox{
+	height:110px;
+	background-color:#000000;
+	opacity:0.5;
+	}
+
+.divpara{font-size:24px;
+	background-color:#FFFFFF
+	color:#8b8bff;
+	position:absolute;
+	top:400px;
+	right:0;
+	}
